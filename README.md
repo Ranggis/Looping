@@ -1,7 +1,3 @@
-Berikut adalah contoh README yang menarik untuk GitHub mengenai "looping":
-
----
-
 # 🔄 Mastering the Art of Looping in Programming
 
 Welcome to **Mastering the Art of Looping**, a repository dedicated to understanding and implementing loops in various programming languages! 🚀 Whether you're a beginner or looking to level up your skills, this repository has something for you.
